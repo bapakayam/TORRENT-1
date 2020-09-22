@@ -1,4 +1,4 @@
-name: Create torrent
+name: Crusader Kings 3
 on:
   push:
     branches:
@@ -7,7 +7,7 @@ on:
 env:
   name: "Firefox Setup 79.0"
   comment: "Firefox Setup 79.0"
-  url: https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/win64/882b427c3e945e68fcb025a5b0a0262f84e9c90c8a5d36a978e7e6130f4ef275/Firefox%20Setup%2079.0.exe
+  url:https://download171.uploadhaven.com/1/application/zip/tEbhElA5sWz2vzutIOtGkOJbFuw0NBzhqxpoWzRD.zip?key=z_SitfBmIKK46HV1SzmX3w&expire=1600825119&filename=Crusader.Kings.III.Royal.Edition.v1.0.3.zip
   file_name: "Firefox Setup 79.0.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       
